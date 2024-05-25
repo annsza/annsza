@@ -1,5 +1,5 @@
 - 👋 Hi, I’m annisa az
-- 👀 I’m interested in web design and maybe data analyst
+- 👀 I’m interested in web design
 - 🌱 I’m currently learning programming especially html, css, and javascript
 
 <!---
